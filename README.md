@@ -25,5 +25,15 @@ Figure 2:
 
 ![image](https://user-images.githubusercontent.com/101227930/182332034-4f60fc1d-6e9d-43f3-9da1-c97d5d1570d0.png)
 
+Figure 3:
+![image](https://user-images.githubusercontent.com/101227930/182353327-99979e38-0512-4556-a238-61cb4a59032f.png)
+
+Figure 4:
+![image](https://user-images.githubusercontent.com/101227930/182353402-33e70fa5-1fbc-4ac4-8dd2-95a6357d7fd3.png)
+
+Figure 5:
+![image](https://user-images.githubusercontent.com/101227930/182353452-807eb779-10dc-4ed5-b884-2e5b69d62e07.png)
+
+
 
 
