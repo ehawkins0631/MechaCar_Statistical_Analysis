@@ -30,9 +30,11 @@ Figure 3:
 
 
 Figure 4:
+
 ![image](https://user-images.githubusercontent.com/101227930/182353402-33e70fa5-1fbc-4ac4-8dd2-95a6357d7fd3.png)
 
 Figure 5:
+
 ![image](https://user-images.githubusercontent.com/101227930/182353452-807eb779-10dc-4ed5-b884-2e5b69d62e07.png)
 
 
