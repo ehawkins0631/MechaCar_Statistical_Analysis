@@ -2,7 +2,6 @@ library(dplyr)
 
 library(jsonlite)
 
-library(magrittr)
 
 ##Delivery 1
 ##Import and read in the Mechacar_mpg.csv file as a dataframe
@@ -25,11 +24,10 @@ summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_cleara
 
 Suspension_Coil <- read.csv(file='Suspension_Coil.csv', check.names = F, stringsAsFactors = F)
 
-
 total_summary <- Suspension_Coil %>% summarize(Mean=mean(PSI),Median=(PSI),Variance=var(PSI),SD=sd(PSI))
 
-
 lot_summary <- Suspension %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Median=(PSI),Variance=var(PSI),SD=sd(PSI))
+
 
 t.test(Suspension_Coil$PSI,mu = 1500)
 
