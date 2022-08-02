@@ -19,4 +19,4 @@ Results:
 
 Figure 1:
 
-Figure 2:
+![image](https://user-images.githubusercontent.com/101227930/182324041-6d186b6b-cfe9-43cc-b7a5-ecdb0c9a1d6e.png)
